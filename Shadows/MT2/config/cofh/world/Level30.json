@@ -1,0 +1,66 @@
+{
+    "certusB": {
+        "template": "uniform",
+        "block": {"name": "appliedenergistics2:tile.OreQuartz", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 7,
+        "minHeight": 20,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "bauxiteB": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 7,
+        "minHeight": 20,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "earthB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 20,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "glowstoneA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 1,
+        "minHeight": 20,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}

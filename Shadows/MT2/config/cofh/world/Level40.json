@@ -1,0 +1,66 @@
+{
+    "redstoneB": {
+        "template": "uniform",
+        "block": "redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 30,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "leadB": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 9,
+        "minHeight": 30,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "silverB": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 30,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "fireB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 30,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+ {
+  "discord": {
+    "token": "MTY5NjY2NTU0ODQ4NDc3MTg1.CwbGBA.Kw4zusznsxozzX528EjzpXXmtWc",
+    "channel": "246487130270990336",
+    "ignoreBots": false,
+    "commands": {
+      "prefix": "!",
+      "online": {
+        "enabled": true,
+        "roles": [],
+        "aliases": []
+      },
+      "tps": {
+        "enabled": true,
+        "roles": [],
+        "aliases": [],
+        "colored": false
+      },
+      "unstuck": {
+        "enabled": false,
+        "roles": [
+          "AdminRoleHere"
+        ],
+        "aliases": []
+      },
+      "custom": [
+    {
+        "name": "cmd",
+        "cmd": "/%args%",
+        "roles": [
+            "Staff"
+        ]
+    }
+]
+    }
+  },
+  "messages": {
+    "discord": {
+      "chat": {
+        "enabled": true,
+        "message": "**<%USER%>** %MESSAGE%",
+        "relaySayCommand": true,
+        "useEmotes": true
+      },
+      "death": {
+        "enabled": true,
+        "message": "%USER% %MESSAGE%"
+      },
+      "achievement": {
+        "enabled": true,
+        "message": "Congrats to %USER% for earning the achievement **%ACHIEVEMENT%** (%DESCRIPTION%)"
+      },
+      "join": {
+        "enabled": true,
+        "message": "%USER% has joined the server!"
+      },
+      "leave": {
+        "enabled": true,
+        "message": "%USER% left the server!"
+      },
+      "startup": {
+        "enabled": false,
+        "message": "**Server started**"
+      },
+      "shutdown": {
+        "enabled": false,
+        "message": "**Server shutdown**"
+      }
+    },
+    "minecraft": {
+      "chat": {
+        "enabled": true,
+        "message": "<%USER%> %MESSAGE%",
+        "maxLength": -1,
+        "usernameColor": "red",
+        "customFormatting": false
+      }
+    }
+  },
+  "experimental": {
+    "fakePlayers": false
+  }
+}

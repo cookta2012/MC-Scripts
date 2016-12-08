@@ -1,0 +1,371 @@
+{
+    "coalA": {
+        "template": "uniform",
+        "block": "coal_ore",
+        "material": "stone",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "ironA": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "cinnabarA": {
+        "template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "goldA": {
+        "template": "uniform",
+        "block": "gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "redstoneA": {
+        "template": "uniform",
+        "block": "redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "diamondA": {
+        "template": "uniform",
+        "block": "diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "emeraldA": {
+        "template": "uniform",
+        "block": "emerald_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "lapisA": {
+        "template": "uniform",
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "airA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "fireA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "waterA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "earthA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "orderA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "entropyA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "amberA": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "apatiteA": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "copperA": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "tinA": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "bauxiteA": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "leadA": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "silverA": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "nickelA": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "certusA": {
+        "template": "uniform",
+        "block": {"name": "appliedenergistics2:tile.OreQuartz", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+
+}

@@ -1,0 +1,66 @@
+{
+    "cinnabarB": {
+        "template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 5,
+        "minHeight": 10,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "entropyB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 10,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "amberB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 5,
+        "minHeight": 10,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "nickelB": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}

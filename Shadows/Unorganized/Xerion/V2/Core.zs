@@ -1,0 +1,17 @@
+recipes.addShapeless(<minecraft:quartz> * 4, [<minecraft:quartz_block>]);
+recipes.remove(<chisel:chisel_hitech>);
+recipes.remove(<psi:programmer>);
+recipes.addShaped(<psi:programmer>, [[<quark:biotite_block>, <quark:biotite_block>, <quark:biotite_block>], [<taiga:astrium_ingot>, null, <taiga:astrium_ingot>]]);
+recipes.remove(<psi:cadAssembler>);
+recipes.addShaped(<psi:cadAssembler>, [[<tconstruct:ingots:1>, <minecraft:sticky_piston>, <tconstruct:ingots:1>], [<calculator:EnrichedGoldIngot>, null, <calculator:EnrichedGoldIngot>], [<lightningcraft:ingot>, null, <lightningcraft:ingot>]]);
+recipes.addShapeless(<chisel:basaltextra>, [<quark:basalt>]);
+recipes.addShapeless(<quark:basalt>, [<chisel:basalt:*>]);
+recipes.addShapeless(<quark:basalt>, [<chisel:basaltextra:*>]);
+val a = <betterwithmods:material:15>;
+recipes.addShaped(<toughasnails:lifeblood_crystal> * 3, [[a, <forestry:thermionicTubes:6>, a], [<lightningcraft:material:5>, <calculator:FireDiamond>, <lightningcraft:material:5>], [a, <taiga:noctunyx_nugget>, a]]);
+recipes.remove(<harvestcraft:saltItem>);
+recipes.addShapeless(<harvestcraft:saltItem> * 16, [<harvestcraft:potItem>, <minecraft:water_bucket>]);
+recipes.remove(<mekanism:Flamethrower>);
+recipes.remove(<mekanism:AtomicDisassembler>);
+recipes.remove(<mekanism:PortableTeleporter>);
+recipes.remove(<mekanism:Jetpack>);

@@ -1,0 +1,50 @@
+{
+    "ironB": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 50,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "tinB": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 14,
+        "minHeight": 50,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "airB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 50,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}

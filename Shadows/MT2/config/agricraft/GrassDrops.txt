@@ -1,0 +1,22 @@
+#Put a list of seeds here that will drop from tall grass with the following schematic: <seedname:seedmeta>,<weight>
+#The seedname should be the name NEI gives you, the weight is the weighted chance for this seed to drop (for reference, minecraft wheat seeds have weight 10)
+#Only define one seed per line, meta is optional. Example: minecraft:melon_seeds,10
+AgriCraft:seedCarrot,30
+AgriCraft:seedPotato,30
+minecraft:wheat_seeds,50
+minecraft:pumpkin_seeds,30
+minecraft:melon_seeds,30
+AgriCraft:seedSugarcane,30
+Botania:grassSeeds,2
+Botania:worldSeed,1
+GardenTrees:candelilla_seeds,25
+Growthcraft|Grapes:grc.grapeSeeds,10
+Growthcraft|Hops:grc.hopSeeds,12
+Growthcraft|Rice:grc.rice,12
+ImmersiveEngineering:seed,25
+etfuturum:beetroot_seeds,12
+witchery:seedsbelladonna,20
+witchery:seedsmandrake,25
+witchery:seedsartichoke,20
+witchery:seedssnowbell,18
+witchery:seedswolfsbane,18

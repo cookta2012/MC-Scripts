@@ -1,0 +1,371 @@
+{ 
+    "coalEighty": {
+        "template": "uniform",
+        "block": "coal_ore",
+        "material": "stone",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "ironEighty": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "cinnabarEighty": {
+        "template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "goldEighty": {
+        "template": "uniform",
+        "block": "gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "redstoneEighty": {
+        "template": "uniform",
+        "block": "redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "diamondEighty": {
+        "template": "uniform",
+        "block": "diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "emeraldEighty": {
+        "template": "uniform",
+        "block": "emerald_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,       
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "lapisEighty": {
+        "template": "uniform",
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "airEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "fireEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "waterEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "earthEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "orderEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "entropyEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "amberEighty": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "apatiteEighty": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "copperEighty": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "tinEighty": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "bauxiteEighty": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "leadEighty": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "silverEighty": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "nickelEighty": {
+        "template": "uniform",
+        "block": {"name": "ImmersiveEngineering:ore", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "certusEighty": {
+        "template": "uniform",
+        "block": {"name": "appliedenergistics2:tile.OreQuartz", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 80,        
+		"maxHeight": 180,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+
+}

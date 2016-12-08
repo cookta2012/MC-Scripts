@@ -1,0 +1,50 @@
+{
+    "diamondB": {
+        "template": "uniform",
+        "block": "diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 1,
+        "maxHeight": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "emeraldB": {
+        "template": "uniform",
+        "block": "emerald_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 7,
+        "minHeight": 1,
+        "maxHeight": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "lapisB": {
+        "template": "uniform",
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 3,
+        "minHeight": 1,
+        "maxHeight": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "orderB": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 60,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "copperB": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 15,
+        "minHeight": 60,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    },
+    "apatiteB": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources", "metadata": 0},
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 6,
+        "minHeight": 60,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0, 60, -37
+        ]
+    }
+}
